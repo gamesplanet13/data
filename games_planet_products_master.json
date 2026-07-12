@@ -1,0 +1,877 @@
+{
+  "schemaVersion": 1,
+  "brand": "Games Planet",
+  "currency": "INR",
+  "updatedAt": "2026-07-13",
+  "products": [
+    {
+      "name": "Push Button",
+      "dimensions": [
+        4,
+        4,
+        4
+      ],
+      "category": "Arcade Box Accessories",
+      "price": 32,
+      "weight": 12,
+      "variants": [
+        "Red",
+        "Yellow"
+      ],
+      "variantImages": {
+        "Red": "Pushbutton red.png",
+        "Yellow": "Pushbutton yellow.png"
+      },
+      "images": [
+        "Pushbutton red.png",
+        "Pushbutton yellow.png"
+      ],
+      "id": "push_button",
+      "active": true
+    },
+    {
+      "name": "Push Button (Imported)",
+      "dimensions": [
+        5,
+        4,
+        4
+      ],
+      "category": "Arcade Box Accessories",
+      "price": 46,
+      "weight": 12,
+      "variants": [
+        "Ice Blue",
+        "Pink",
+        "Green",
+        "Yellow",
+        "Black"
+      ],
+      "variantImages": {
+        "Ice Blue": "Imported blue.png",
+        "Pink": "Imported pink.png",
+        "Green": "Imported green.png",
+        "Yellow": "Imported yellow.png",
+        "Black": "Imported black.png"
+      },
+      "images": [
+        "Imported blue.png",
+        "Imported pink.png",
+        "Imported green.png",
+        "Imported yellow.png",
+        "Imported black.png"
+      ],
+      "id": "push_button_imported",
+      "active": true
+    },
+    {
+      "name": "Old Rasila Push Button",
+      "category": "Arcade Box Accessories",
+      "price": 13,
+      "weight": 12,
+      "dimensions": [
+        6,
+        4,
+        4
+      ],
+      "images": [
+        "Old raisla pursh button.png"
+      ],
+      "id": "old_rasila_push_button",
+      "active": true
+    },
+    {
+      "name": "MD Switch Button",
+      "category": "Arcade Box Accessories",
+      "price": 50,
+      "weight": 5,
+      "dimensions": [
+        5,
+        3,
+        1
+      ],
+      "images": [
+        "Mdswitch.png"
+      ],
+      "id": "md_switch_button",
+      "active": true
+    },
+    {
+      "name": "Black Switch Button",
+      "category": "Arcade Box Accessories",
+      "price": 15,
+      "weight": 5,
+      "dimensions": [
+        5,
+        3,
+        1
+      ],
+      "images": [
+        "Normal switch button.png"
+      ],
+      "id": "black_switch_button",
+      "active": true
+    },
+    {
+      "name": "Coin Drop Switch Button",
+      "category": "Arcade Box Accessories",
+      "price": 45,
+      "weight": 12,
+      "dimensions": [
+        11,
+        4,
+        2
+      ],
+      "images": [
+        "Coindropswitch.png"
+      ],
+      "id": "coin_drop_switch_button",
+      "active": true
+    },
+    {
+      "name": "Rasila Handle (Without Switch)",
+      "category": "Arcade Box Accessories",
+      "price": 200,
+      "weight": 280,
+      "dimensions": [
+        14,
+        11,
+        8
+      ],
+      "images": [
+        "Rasila handle.png"
+      ],
+      "id": "rasila_handle_without_switch",
+      "active": true
+    },
+    {
+      "name": "Rasila Handle (With Switch)",
+      "category": "Arcade Box Accessories",
+      "price": 260,
+      "weight": 300,
+      "dimensions": [
+        14,
+        11,
+        8
+      ],
+      "images": [
+        "Rasila handle.png",
+        "Normal switch button.png"
+      ],
+      "id": "rasila_handle_with_switch",
+      "active": true
+    },
+    {
+      "name": "MD Handle (With Switch)",
+      "category": "Arcade Box Accessories",
+      "price": 585,
+      "weight": 280,
+      "dimensions": [
+        12,
+        11,
+        11
+      ],
+      "variants": [
+        "Black",
+        "Red"
+      ],
+      "variantImages": {
+        "Black": "Madhandle.png",
+        "Red": "Md handle red 1.png"
+      },
+      "images": [
+        "Md handle red 1.png",
+        "Madhandle.png",
+        "Md handle black.png",
+        "Md handle red.png",
+        "Md handle bottom.png",
+        "Md handle pamphlets .png",
+        "Md handle with md switch.jpg",
+        "Md handle with switch.jpg",
+        "Mx handle with md switch.jpg"
+      ],
+      "id": "md_handle_with_switch",
+      "active": true
+    },
+    {
+      "name": "Coin Packet",
+      "category": "Arcade Box Accessories",
+      "price": 210,
+      "weight": 620,
+      "dimensions": [
+        12,
+        12,
+        3
+      ],
+      "images": [
+        "Coinpacket.png"
+      ],
+      "id": "coin_packet",
+      "active": true
+    },
+    {
+      "name": "Coin Acrylic Machine",
+      "category": "Arcade Box Accessories",
+      "price": 195,
+      "weight": 120,
+      "dimensions": [
+        13,
+        15,
+        8
+      ],
+      "images": [
+        "Ecrylic coin machine.png"
+      ],
+      "id": "coin_acrylic_machine",
+      "active": true
+    },
+    {
+      "name": "Coin Acrylic Machine with Switch",
+      "category": "Arcade Box Accessories",
+      "price": 240,
+      "weight": 135,
+      "dimensions": [
+        13,
+        15,
+        8
+      ],
+      "images": [
+        "Ecrylic coin machine.png",
+        "Coindropswitch.png"
+      ],
+      "id": "coin_acrylic_machine_with_switch",
+      "active": true
+    },
+    {
+      "name": "Remote Plate",
+      "category": "Arcade Box Accessories",
+      "price": 300,
+      "weight": 15,
+      "dimensions": [
+        10,
+        10,
+        2
+      ],
+      "images": [
+        "Ps2plate.png"
+      ],
+      "id": "remote_plate",
+      "active": true
+    },
+    {
+      "name": "Remote Lead",
+      "category": "Arcade Box Accessories",
+      "price": 100,
+      "weight": 80,
+      "dimensions": [
+        10,
+        5,
+        2
+      ],
+      "images": [
+        "Remote lead.png"
+      ],
+      "id": "remote_lead",
+      "active": true
+    },
+    {
+      "name": "12 Core Wire (Per Meter)",
+      "category": "Arcade Box Accessories",
+      "price": 60,
+      "weight": 70,
+      "dimensions": [
+        10,
+        5,
+        3
+      ],
+      "images": [
+        "12 core wire .png"
+      ],
+      "id": "12_core_wire_per_meter",
+      "active": true
+    },
+    {
+      "name": "PS2 Slim Power Adapter with Power Cable",
+      "category": "PS2",
+      "price": 599,
+      "weight": 340,
+      "dimensions": [
+        20,
+        15,
+        7
+      ],
+      "compatibility": "Compatible with All PS2 Slim Models",
+      "description": [
+        "Compatible with All PS2 Slim Models",
+        "SCPH-70000 Series",
+        "SCPH-75000 Series",
+        "SCPH-77000 Series",
+        "SCPH-79000 Series",
+        "SCPH-90000 Series",
+        "Output: 8.5V ⎓ 5.65A",
+        "Input: 100-265V AC, 50-60Hz",
+        "Includes Power Adapter + Power Cable"
+      ],
+      "images": [
+        "Ps2 slim adapter .jpg"
+      ],
+      "id": "ps2_slim_power_adapter_with_power_cable",
+      "active": true
+    },
+    {
+      "name": "USB to PS2/PS3/PC Converter",
+      "category": "PS2",
+      "price": 360,
+      "weight": 100,
+      "dimensions": [
+        15,
+        6,
+        2
+      ],
+      "images": [
+        "usbtops2.jpg"
+      ],
+      "id": "usb_to_ps2_ps3_pc_converter",
+      "active": true
+    },
+    {
+      "name": "PS2 8MB Memory Card with OPL for PS2 Fat",
+      "category": "PS2",
+      "price": 499,
+      "weight": 25,
+      "dimensions": [
+        12,
+        13,
+        2
+      ],
+      "images": [
+        "ps28mb.jpeg"
+      ],
+      "id": "ps2_8mb_memory_card_with_opl_for_ps2_fat",
+      "active": true
+    },
+    {
+      "name": "PS2 8MB Memory Card with OPL for PS2 Slim 70000 Series",
+      "category": "PS2",
+      "price": 499,
+      "weight": 25,
+      "dimensions": [
+        12,
+        13,
+        2
+      ],
+      "images": [
+        "ps28mb.jpeg"
+      ],
+      "id": "ps2_8mb_memory_card_with_opl_for_ps2_slim_70000_series",
+      "active": true
+    },
+    {
+      "name": "PS2 8MB Memory Card with OPL for PS2 Slim 90000 Series",
+      "category": "PS2",
+      "price": 499,
+      "weight": 25,
+      "dimensions": [
+        12,
+        13,
+        2
+      ],
+      "images": [
+        "ps28mb.jpeg"
+      ],
+      "id": "ps2_8mb_memory_card_with_opl_for_ps2_slim_90000_series",
+      "active": true
+    },
+    {
+      "name": "PS2 8MB Memory Card Blank",
+      "category": "PS2",
+      "price": 369,
+      "weight": 25,
+      "dimensions": [
+        12,
+        13,
+        2
+      ],
+      "images": [
+        "ps28mb.jpeg"
+      ],
+      "id": "ps2_8mb_memory_card_blank",
+      "active": true
+    },
+    {
+      "name": "32GB USB for PS2 with Arcade Games",
+      "category": "PS2",
+      "price": 549,
+      "weight": 5,
+      "dimensions": [
+        5,
+        3,
+        2
+      ],
+      "images": [
+        "32gbusb.jpeg"
+      ],
+      "id": "32gb_usb_for_ps2_with_arcade_games",
+      "active": true
+    },
+    {
+      "name": "Power Cable for PS2 / PS3 / PS4 / PS5",
+      "category": "Cables",
+      "price": 129,
+      "weight": 130,
+      "dimensions": [
+        15,
+        5,
+        5
+      ],
+      "images": [
+        "ps2pcable.jpeg"
+      ],
+      "id": "power_cable_for_ps2_ps3_ps4_ps5",
+      "active": true
+    },
+    {
+      "name": "HDMI Cable",
+      "category": "Cables",
+      "price": 99,
+      "weight": 99,
+      "dimensions": [
+        10,
+        10,
+        3
+      ],
+      "images": [
+        "hdmicable.jpeg"
+      ],
+      "id": "hdmi_cable",
+      "active": true
+    },
+    {
+      "name": "HDMI Converter for PS2",
+      "category": "PS2",
+      "price": 319,
+      "weight": 80,
+      "dimensions": [
+        14,
+        9,
+        3
+      ],
+      "images": [
+        "ps2hdmi.jpeg"
+      ],
+      "id": "hdmi_converter_for_ps2",
+      "active": true
+    },
+    {
+      "name": "AV Cable for PS2",
+      "category": "PS2",
+      "price": 99,
+      "weight": 70,
+      "dimensions": [
+        15,
+        4,
+        3
+      ],
+      "images": [
+        "ps2av.jpeg"
+      ],
+      "id": "av_cable_for_ps2",
+      "active": true
+    },
+    {
+      "name": "PS2 Wired Controller (Replica)",
+      "category": "PS2",
+      "price": 375,
+      "weight": 250,
+      "dimensions": [
+        17,
+        12,
+        8
+      ],
+      "images": [
+        "ps2wire.jpeg"
+      ],
+      "id": "ps2_wired_controller_replica",
+      "active": true
+    },
+    {
+      "name": "PS2 Wireless Controller",
+      "category": "PS2",
+      "price": 499,
+      "weight": 250,
+      "dimensions": [
+        8,
+        13,
+        17
+      ],
+      "images": [
+        "ps2wireless.jpeg"
+      ],
+      "id": "ps2_wireless_controller",
+      "active": true
+    },
+    {
+      "name": "PS3 Controller (Replica)",
+      "category": "PS3",
+      "price": 600,
+      "weight": 250,
+      "dimensions": [
+        22,
+        15,
+        9
+      ],
+      "images": [
+        "ps3gamepad.jpeg"
+      ],
+      "id": "ps3_controller_replica",
+      "active": true
+    },
+    {
+      "name": "PS4 Controller Black (Replica)",
+      "category": "PS4",
+      "price": 999,
+      "weight": 450,
+      "dimensions": [
+        15,
+        20,
+        8
+      ],
+      "images": [
+        "ps4gamepad.jpeg"
+      ],
+      "id": "ps4_controller_black_replica",
+      "active": true
+    },
+    {
+      "name": "PS3 Controller Charging Cable",
+      "category": "PS3",
+      "price": 119,
+      "weight": 65,
+      "dimensions": [
+        15,
+        5,
+        5
+      ],
+      "images": [
+        "ps3usb.jpeg"
+      ],
+      "id": "ps3_controller_charging_cable",
+      "active": true
+    },
+    {
+      "name": "PS4 Controller Charging Cable",
+      "category": "PS4",
+      "price": 139,
+      "weight": 65,
+      "dimensions": [
+        15,
+        5,
+        5
+      ],
+      "images": [
+        "ps4usb.jpeg"
+      ],
+      "id": "ps4_controller_charging_cable",
+      "active": true
+    },
+    {
+      "name": "PS5 Controller Charging Cable (USB to C)",
+      "category": "PS5",
+      "price": 149,
+      "weight": 65,
+      "dimensions": [
+        15,
+        5,
+        5
+      ],
+      "images": [
+        "ps5usb.jpeg"
+      ],
+      "id": "ps5_controller_charging_cable_usb_to_c",
+      "active": true
+    },
+    {
+      "name": "Soldering Paste (Wel Fix)",
+      "category": "Electrical Items",
+      "price": 10,
+      "weight": 15,
+      "dimensions": [
+        7,
+        7,
+        2
+      ],
+      "images": [
+        "Paste.png",
+        "20260409_213949.jpg"
+      ],
+      "id": "soldering_paste_wel_fix",
+      "active": true
+    },
+    {
+      "name": "Solder Wire Small Pack",
+      "category": "Electrical Items",
+      "price": 20,
+      "weight": 5,
+      "dimensions": [
+        7,
+        7,
+        1
+      ],
+      "images": [
+        "solder.jpg"
+      ],
+      "id": "solder_wire_small_pack",
+      "active": true
+    },
+    {
+      "name": "Solder Wire (Roll)",
+      "category": "Electrical Items",
+      "price": 80,
+      "weight": 22,
+      "dimensions": [
+        5,
+        5,
+        5
+      ],
+      "images": [
+        "Solder .png",
+        "20260409_213939.jpg"
+      ],
+      "id": "solder_wire_roll",
+      "active": true
+    },
+    {
+      "name": "Solder Wire (Boom)",
+      "category": "Electrical Items",
+      "price": 180,
+      "weight": 58,
+      "dimensions": [
+        9,
+        5,
+        5
+      ],
+      "images": [
+        "Solder 2.png",
+        "20260409_214046.jpg"
+      ],
+      "id": "solder_wire_boom",
+      "active": true
+    },
+    {
+      "name": "15W Soldering Iron (LED)",
+      "category": "Electrical Items",
+      "price": 89,
+      "weight": 60,
+      "dimensions": [
+        21,
+        4,
+        4
+      ],
+      "images": [
+        "Iron 15wt.png",
+        "20260409_214435.jpg"
+      ],
+      "id": "15w_soldering_iron_led",
+      "active": true
+    },
+    {
+      "name": "25W Soldering Iron (Madhur)",
+      "category": "Electrical Items",
+      "price": 290,
+      "weight": 162,
+      "dimensions": [
+        27,
+        6,
+        5
+      ],
+      "images": [
+        "Iron 30wt.png",
+        "20260409_214249.jpg",
+        "20260409_214254.jpg"
+      ],
+      "id": "25w_soldering_iron_madhur",
+      "active": true
+    },
+    {
+      "name": "25W Soldering Iron (Starmaxx)",
+      "category": "Electrical Items",
+      "price": 140,
+      "weight": 120,
+      "dimensions": [
+        30,
+        12,
+        4
+      ],
+      "images": [
+        "Iron 25wt.png",
+        "20260409_214311.jpg",
+        "20260409_214344.jpg"
+      ],
+      "id": "25w_soldering_iron_starmaxx",
+      "active": true
+    },
+    {
+      "name": "Laptop Power Cable",
+      "category": "Cables",
+      "price": 110,
+      "weight": 185,
+      "dimensions": [
+        23,
+        7,
+        5
+      ],
+      "images": [
+        "laptopcable.png"
+      ],
+      "id": "laptop_power_cable",
+      "active": true
+    },
+    {
+      "name": "CPU Power Cable / PS4 Pro Power Cable",
+      "category": "Cables",
+      "price": 110,
+      "weight": 130,
+      "dimensions": [
+        23,
+        7,
+        5
+      ],
+      "images": [
+        "cpucable.png"
+      ],
+      "id": "cpu_power_cable_ps4_pro_power_cable",
+      "active": true
+    },
+    {
+      "name": "Blow Torch Flame Lighter",
+      "category": "Electrical Items",
+      "price": 250,
+      "weight": 90,
+      "dimensions": [
+        18,
+        12,
+        4
+      ],
+      "images": [
+        "blowtorch.jpg"
+      ],
+      "id": "blow_torch_flame_lighter",
+      "active": true
+    },
+    {
+      "name": "Precision Screwdriver Kit",
+      "category": "Electrical Items",
+      "price": 250,
+      "weight": 170,
+      "dimensions": [
+        13,
+        8,
+        4
+      ],
+      "images": [
+        "Screw driver kit.png"
+      ],
+      "id": "precision_screwdriver_kit",
+      "active": true
+    },
+    {
+      "name": "Matrix Modbo 5.0 Modchip",
+      "category": "PS2",
+      "price": 549,
+      "weight": 5,
+      "dimensions": [
+        3,
+        3,
+        1
+      ],
+      "images": [
+        "Matrix5.png"
+      ],
+      "id": "matrix_modbo_5_0_modchip",
+      "active": true
+    },
+    {
+      "name": "AA/AAA 4-Slot Battery Charger",
+      "category": "Batteries and Charger",
+      "price": 450,
+      "priceLabel": "Ask Price",
+      "weight": 140,
+      "dimensions": [
+        13,
+        7,
+        7
+      ],
+      "images": [
+        "Cell charger.png"
+      ],
+      "id": "aa_aaa_4_slot_battery_charger",
+      "active": true
+    },
+    {
+      "name": "Simpex AA Rechargeable Cells (4 Pack)",
+      "category": "Batteries and Charger",
+      "price": 450,
+      "priceLabel": "Ask Price",
+      "weight": 75,
+      "dimensions": [
+        11,
+        9,
+        2
+      ],
+      "images": [
+        "AA  simpex4cell.png"
+      ],
+      "id": "simpex_aa_rechargeable_cells_4_pack",
+      "active": true
+    },
+    {
+      "name": "Panasonic AAA Rechargeable Cells (2 Pack)",
+      "category": "Batteries and Charger",
+      "price": 350,
+      "priceLabel": "Ask Price",
+      "weight": 25,
+      "dimensions": [
+        12,
+        10,
+        2
+      ],
+      "images": [
+        "AAAPanasonic2cell.png"
+      ],
+      "id": "panasonic_aaa_rechargeable_cells_2_pack",
+      "active": true
+    },
+    {
+      "name": "Panasonic AAA Rechargeable Cells (4 Pack)",
+      "category": "Batteries and Charger",
+      "price": 700,
+      "priceLabel": "Ask Price",
+      "weight": 50,
+      "dimensions": [
+        12,
+        10,
+        2
+      ],
+      "images": [
+        "AAAPenasonic4cell.png"
+      ],
+      "id": "panasonic_aaa_rechargeable_cells_4_pack",
+      "active": true
+    },
+    {
+      "name": "6 Socket Extension Board",
+      "category": "Electrical",
+      "price": 399,
+      "weight": 650,
+      "dimensions": [
+        30,
+        12,
+        7
+      ],
+      "images": [
+        "Extension.png"
+      ],
+      "id": "6_socket_extension_board",
+      "active": true
+    }
+  ]
+}
