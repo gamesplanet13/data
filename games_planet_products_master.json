@@ -27,7 +27,10 @@
         "Pushbutton yellow.png"
       ],
       "id": "push_button",
-      "active": true
+      "active": false,
+      "stock": 0,
+      "available": false,
+      "hiddenFromStore": true
     },
     {
       "name": "Push Button (Imported)",
@@ -190,7 +193,10 @@
         "Mx handle with md switch.jpg"
       ],
       "id": "md_handle_with_switch",
-      "active": true
+      "active": true,
+      "variantStocks": {
+        "Black": 4
+      }
     },
     {
       "name": "Coin Packet",
