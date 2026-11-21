@@ -41,7 +41,7 @@
       ],
       "category": "Arcade Box Accessories",
       "price": 46,
-      "weight": 12,
+      "weight": 15,
       "variants": [
         "Ice Blue",
         "Pink",
@@ -118,7 +118,7 @@
       "name": "Coin Drop Switch Button",
       "category": "Arcade Box Accessories",
       "price": 45,
-      "weight": 12,
+      "weight": 25,
       "dimensions": [
         11,
         4,
@@ -134,7 +134,7 @@
       "name": "Rasila Handle (Without Switch)",
       "category": "Arcade Box Accessories",
       "price": 200,
-      "weight": 280,
+      "weight": 300,
       "dimensions": [
         14,
         11,
@@ -150,7 +150,7 @@
       "name": "Rasila Handle (With Switch)",
       "category": "Arcade Box Accessories",
       "price": 260,
-      "weight": 300,
+      "weight": 320,
       "dimensions": [
         14,
         11,
@@ -202,7 +202,7 @@
       "name": "Coin Packet",
       "category": "Arcade Box Accessories",
       "price": 210,
-      "weight": 620,
+      "weight": 630,
       "dimensions": [
         12,
         12,
@@ -218,7 +218,7 @@
       "name": "Coin Acrylic Machine",
       "category": "Arcade Box Accessories",
       "price": 195,
-      "weight": 120,
+      "weight": 165,
       "dimensions": [
         13,
         15,
@@ -234,7 +234,7 @@
       "name": "Coin Acrylic Machine with Switch",
       "category": "Arcade Box Accessories",
       "price": 240,
-      "weight": 135,
+      "weight": 170,
       "dimensions": [
         13,
         15,
